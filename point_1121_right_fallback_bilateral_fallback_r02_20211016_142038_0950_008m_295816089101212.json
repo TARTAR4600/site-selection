@@ -1,0 +1,98 @@
+{
+    "image_name": "point_1121_right_fallback_bilateral_fallback_r02_20211016_142038_0950_008m_295816089101212.jpg",
+    "image_path": "./images/point_1121_right_fallback_bilateral_fallback_r02_20211016_142038_0950_008m_295816089101212.jpg",
+    "meta_info": {
+        "sampling_point_id": "point_1121",
+        "batch_number": 8,
+        "mapillary_id": "295816089101212",
+        "captured_at": 1634390438794,
+        "longitude": -74.103925084933,
+        "latitude": 4.6251837438893
+    },
+    "annotations": [
+        {
+            "id": 23,
+            "completed_by": 1,
+            "result": [
+                {
+                    "original_width": 2048,
+                    "original_height": 1152,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 12.435676604556951,
+                        "y": 47.953428518725985,
+                        "width": 7.025845821039296,
+                        "height": 11.071029778607361,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "X_Unclear"
+                        ]
+                    },
+                    "id": "DWGIbXTEX8",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1152,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 19.820798632353938,
+                        "y": 48.592141775184096,
+                        "width": 9.301261797171342,
+                        "height": 12.632328849949438,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "X_Unclear"
+                        ]
+                    },
+                    "id": "02WxI106yP",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1152,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 35.19362186788155,
+                        "y": 49.00025310048089,
+                        "width": 32.687927107061505,
+                        "height": 14.578587699316628,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B4_Office"
+                        ]
+                    },
+                    "id": "GyTu4zUDMg",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                }
+            ],
+            "was_cancelled": false,
+            "ground_truth": false,
+            "created_at": "2025-07-01T20:35:55.447801Z",
+            "updated_at": "2025-07-01T20:35:55.447833Z",
+            "draft_created_at": "2025-07-01T20:34:44.909195Z",
+            "lead_time": 75.564,
+            "prediction": {},
+            "result_count": 3,
+            "unique_id": "1ba08137-272d-4210-9025-87481a30e4c5",
+            "import_id": null,
+            "last_action": null,
+            "bulk_created": false,
+            "task": 556,
+            "project": 1,
+            "updated_by": 1,
+            "parent_prediction": null,
+            "parent_annotation": null,
+            "last_created_by": null
+        }
+    ]
+}

@@ -1,0 +1,58 @@
+{
+    "image_name": "point_127_panoramic_primary_panoramic_primary_r01_20210914_142637_0818_017m_2156578917850706.jpg",
+    "image_path": "./images/point_127_panoramic_primary_panoramic_primary_r01_20210914_142637_0818_017m_2156578917850706.jpg",
+    "meta_info": {
+        "sampling_point_id": "point_127",
+        "batch_number": 1,
+        "mapillary_id": "2156578917850706",
+        "captured_at": 1631625997186,
+        "longitude": -74.176952190927,
+        "latitude": 4.6125783073834
+    },
+    "annotations": [
+        {
+            "id": 10,
+            "completed_by": 1,
+            "result": [
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 21.095257891224154,
+                        "y": 39.12742917048462,
+                        "width": 9.461723886605295,
+                        "height": 13.821221240501934,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B2_Service"
+                        ]
+                    },
+                    "id": "Jq4zbJUTUC",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                }
+            ],
+            "was_cancelled": false,
+            "ground_truth": false,
+            "created_at": "2025-06-27T22:12:46.488740Z",
+            "updated_at": "2025-06-27T22:12:46.488768Z",
+            "draft_created_at": null,
+            "lead_time": 16.463,
+            "prediction": {},
+            "result_count": 1,
+            "unique_id": "4c2e0a9f-2eca-4e4b-ad27-67dac18da541",
+            "import_id": null,
+            "last_action": null,
+            "bulk_created": false,
+            "task": 33,
+            "project": 1,
+            "updated_by": 1,
+            "parent_prediction": null,
+            "parent_annotation": null,
+            "last_created_by": null
+        }
+    ]
+}

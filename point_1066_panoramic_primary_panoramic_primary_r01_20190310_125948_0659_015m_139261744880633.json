@@ -1,0 +1,58 @@
+{
+    "image_name": "point_1066_panoramic_primary_panoramic_primary_r01_20190310_125948_0659_015m_139261744880633.jpg",
+    "image_path": "./images/point_1066_panoramic_primary_panoramic_primary_r01_20190310_125948_0659_015m_139261744880633.jpg",
+    "meta_info": {
+        "sampling_point_id": "point_1066",
+        "batch_number": 8,
+        "mapillary_id": "139261744880633",
+        "captured_at": 1552222788000,
+        "longitude": -74.064503579089,
+        "latitude": 4.6308066208472
+    },
+    "annotations": [
+        {
+            "id": 17,
+            "completed_by": 1,
+            "result": [
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 66.05922551252846,
+                        "y": 30.523917995444176,
+                        "width": 23.917995444191355,
+                        "height": 21.867881548974946,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B5_Leisure_Sport"
+                        ]
+                    },
+                    "id": "Ro4N6p6GLb",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                }
+            ],
+            "was_cancelled": false,
+            "ground_truth": false,
+            "created_at": "2025-07-01T20:23:14.224269Z",
+            "updated_at": "2025-07-01T20:23:14.224295Z",
+            "draft_created_at": "2025-07-01T20:23:13.421496Z",
+            "lead_time": 26.205,
+            "prediction": {},
+            "result_count": 1,
+            "unique_id": "d31bdae5-580e-4ee5-82f3-edeacb52f958",
+            "import_id": null,
+            "last_action": null,
+            "bulk_created": false,
+            "task": 454,
+            "project": 1,
+            "updated_by": 1,
+            "parent_prediction": null,
+            "parent_annotation": null,
+            "last_created_by": null
+        }
+    ]
+}

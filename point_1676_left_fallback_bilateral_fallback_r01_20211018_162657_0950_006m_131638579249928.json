@@ -1,0 +1,98 @@
+{
+    "image_name": "point_1676_left_fallback_bilateral_fallback_r01_20211018_162657_0950_006m_131638579249928.jpg",
+    "image_path": "./images/point_1676_left_fallback_bilateral_fallback_r01_20211018_162657_0950_006m_131638579249928.jpg",
+    "meta_info": {
+        "sampling_point_id": "point_1676",
+        "batch_number": 12,
+        "mapillary_id": "131638579249928",
+        "captured_at": 1634570817795,
+        "longitude": -74.164483106608,
+        "latitude": 4.6181853638685
+    },
+    "annotations": [
+        {
+            "id": 29,
+            "completed_by": 1,
+            "result": [
+                {
+                    "original_width": 2048,
+                    "original_height": 1152,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 70.40194884287455,
+                        "y": 16.889971579374745,
+                        "width": 16.199756394640673,
+                        "height": 27.500338340776835,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "X_Unclear"
+                        ]
+                    },
+                    "id": "5UcMjHLDkr",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1152,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 88.67235079171742,
+                        "y": 17.32304777371769,
+                        "width": 7.429963459196102,
+                        "height": 28.149952632291246,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "X_Unclear"
+                        ]
+                    },
+                    "id": "UePuO9ILbj",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1152,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 33.37393422655298,
+                        "y": 12.992285830288267,
+                        "width": 32.88672350791718,
+                        "height": 10.177290567059144,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B3_Restaurant"
+                        ]
+                    },
+                    "id": "a-Sf9UwQFG",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                }
+            ],
+            "was_cancelled": false,
+            "ground_truth": false,
+            "created_at": "2025-07-01T21:05:38.385046Z",
+            "updated_at": "2025-07-01T21:05:38.385070Z",
+            "draft_created_at": "2025-07-01T21:05:18.259724Z",
+            "lead_time": 33.838,
+            "prediction": {},
+            "result_count": 3,
+            "unique_id": "3ddbe4b3-0dee-4e7a-9a43-b6322024189b",
+            "import_id": null,
+            "last_action": null,
+            "bulk_created": false,
+            "task": 716,
+            "project": 1,
+            "updated_by": 1,
+            "parent_prediction": null,
+            "parent_annotation": null,
+            "last_created_by": null
+        }
+    ]
+}

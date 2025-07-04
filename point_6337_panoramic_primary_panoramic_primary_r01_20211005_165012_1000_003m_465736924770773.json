@@ -1,0 +1,158 @@
+{
+    "image_name": "point_6337_panoramic_primary_panoramic_primary_r01_20211005_165012_1000_003m_465736924770773.jpg",
+    "image_path": "./images/point_6337_panoramic_primary_panoramic_primary_r01_20211005_165012_1000_003m_465736924770773.jpg",
+    "meta_info": {
+        "sampling_point_id": "point_6337",
+        "batch_number": 42,
+        "mapillary_id": "465736924770773",
+        "captured_at": 1633449012238,
+        "longitude": -74.200473423226,
+        "latitude": 4.6180571934689
+    },
+    "annotations": [
+        {
+            "id": 47,
+            "completed_by": 1,
+            "result": [
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 57.52508361204013,
+                        "y": 45.039018952062435,
+                        "width": 20.178372352285393,
+                        "height": 20.289855072463773,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "R_Residential"
+                        ]
+                    },
+                    "id": "tjAxlJuMek",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 81.4938684503902,
+                        "y": 44.81605351170568,
+                        "width": 14.269788182831661,
+                        "height": 16.722408026755858,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "R_Residential"
+                        ]
+                    },
+                    "id": "upxCvuvVZx",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 10.590858416945373,
+                        "y": 23.18840579710145,
+                        "width": 24.972129319955407,
+                        "height": 43.47826086956522,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "R_Residential"
+                        ]
+                    },
+                    "id": "utHyLfjGs3",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 36.90078037904125,
+                        "y": 27.647714604236345,
+                        "width": 8.24972129319955,
+                        "height": 30.992196209587515,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "R_Residential"
+                        ]
+                    },
+                    "id": "57RzQTV2Oz",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 4.682274247491638,
+                        "y": 37.23522853957636,
+                        "width": 5.351170568561874,
+                        "height": 17.837235228539583,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "R_Residential"
+                        ]
+                    },
+                    "id": "D8bdoF8V77",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 45.59643255295429,
+                        "y": 37.23522853957636,
+                        "width": 2.2296544035674515,
+                        "height": 18.50613154960981,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "R_Residential"
+                        ]
+                    },
+                    "id": "93bkCXwRC3",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                }
+            ],
+            "was_cancelled": false,
+            "ground_truth": false,
+            "created_at": "2025-07-01T21:50:32.495856Z",
+            "updated_at": "2025-07-01T21:50:32.495882Z",
+            "draft_created_at": "2025-07-01T21:50:19.262797Z",
+            "lead_time": 22.896,
+            "prediction": {},
+            "result_count": 6,
+            "unique_id": "04ffe6a6-bd43-4ce4-8094-fe451c203823",
+            "import_id": null,
+            "last_action": null,
+            "bulk_created": false,
+            "task": 1213,
+            "project": 1,
+            "updated_by": 1,
+            "parent_prediction": null,
+            "parent_annotation": null,
+            "last_created_by": null
+        }
+    ]
+}

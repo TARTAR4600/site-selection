@@ -1,0 +1,158 @@
+{
+    "image_name": "point_1747_panoramic_primary_panoramic_primary_r01_20210917_170456_1000_008m_264252565579143.jpg",
+    "image_path": "./images/point_1747_panoramic_primary_panoramic_primary_r01_20210917_170456_1000_008m_264252565579143.jpg",
+    "meta_info": {
+        "sampling_point_id": "point_1747",
+        "batch_number": 12,
+        "mapillary_id": "264252565579143",
+        "captured_at": 1631894696843,
+        "longitude": -74.168394147026,
+        "latitude": 4.6194317149131
+    },
+    "annotations": [
+        {
+            "id": 31,
+            "completed_by": 1,
+            "result": [
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 16.002430792194396,
+                        "y": 46.48891813842148,
+                        "width": 4.186289911882078,
+                        "height": 8.777704653946287,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B1_Retail"
+                        ]
+                    },
+                    "id": "tjKmLC90ul",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 12.086224100433743,
+                        "y": 45.678668478057205,
+                        "width": 2.9709154213356683,
+                        "height": 9.587954314310565,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B1_Retail"
+                        ]
+                    },
+                    "id": "w2MaSmzjB8",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 6.819601308065966,
+                        "y": 44.05816915732866,
+                        "width": 4.253810716912435,
+                        "height": 9.317871094189144,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "X_Unclear"
+                        ]
+                    },
+                    "id": "xTwQG4PI8P",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 20.931449559410392,
+                        "y": 45.5436268679965,
+                        "width": 9.520433509280213,
+                        "height": 10.398203974674836,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B1_Retail"
+                        ]
+                    },
+                    "id": "XKV3k114RZ",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 34.503131370511966,
+                        "y": 42.43766983660011,
+                        "width": 4.456373132003506,
+                        "height": 11.478536855160542,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "X_Unclear"
+                        ]
+                    },
+                    "id": "Nplno-Wmyo",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 39.8372749679101,
+                        "y": 39.601796025325164,
+                        "width": 2.4982697861231813,
+                        "height": 13.369119396010511,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "X_Unclear"
+                        ]
+                    },
+                    "id": "wu6aFD3bOW",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                }
+            ],
+            "was_cancelled": false,
+            "ground_truth": false,
+            "created_at": "2025-07-01T21:08:40.798815Z",
+            "updated_at": "2025-07-01T21:08:40.798839Z",
+            "draft_created_at": "2025-07-01T21:08:21.872730Z",
+            "lead_time": 37.072,
+            "prediction": {},
+            "result_count": 6,
+            "unique_id": "a438a8e7-c8aa-44ec-acd6-5e379cf74c96",
+            "import_id": null,
+            "last_action": null,
+            "bulk_created": false,
+            "task": 794,
+            "project": 1,
+            "updated_by": 1,
+            "parent_prediction": null,
+            "parent_annotation": null,
+            "last_created_by": null
+        }
+    ]
+}

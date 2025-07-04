@@ -1,0 +1,198 @@
+{
+    "image_name": "point_2117_panoramic_primary_panoramic_primary_r01_20211011_142631_1000_007m_234348162013046.jpg",
+    "image_path": "./images/point_2117_panoramic_primary_panoramic_primary_r01_20211011_142631_1000_007m_234348162013046.jpg",
+    "meta_info": {
+        "sampling_point_id": "point_2117",
+        "batch_number": 15,
+        "mapillary_id": "234348162013046",
+        "captured_at": 1633958791054,
+        "longitude": -74.162968615815,
+        "latitude": 4.6344022535266
+    },
+    "annotations": [
+        {
+            "id": 37,
+            "completed_by": 1,
+            "result": [
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 22.120691496101095,
+                        "y": 42.665685446216564,
+                        "width": 9.026097076945547,
+                        "height": 9.221467143546102,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B3_Restaurant"
+                        ]
+                    },
+                    "id": "nZI8vkT6vA",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 33.295859305652726,
+                        "y": 45.24457032534384,
+                        "width": 3.477587185489846,
+                        "height": 7.189618450900355,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B2_Service"
+                        ]
+                    },
+                    "id": "yF1wnkvheU",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 9.821574147428901,
+                        "y": 45.816488598220026,
+                        "width": 6.408138184498132,
+                        "height": 4.298141465212165,
+                        "rotation": 352.91878775534224,
+                        "rectanglelabels": [
+                            "B3_Restaurant"
+                        ]
+                    },
+                    "id": "f4tTMzXAvW",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 37.75029682414534,
+                        "y": 42.74383347285677,
+                        "width": 2.696106919087626,
+                        "height": 8.752578983704772,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "X_Unclear"
+                        ]
+                    },
+                    "id": "RYcZGQnqGn",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 41.14973598299495,
+                        "y": 43.29086965933833,
+                        "width": 1.7192565860848745,
+                        "height": 8.518134903784102,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "X_Unclear"
+                        ]
+                    },
+                    "id": "WCE-HEvaOR",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 69.22680419507334,
+                        "y": 48.53619631469945,
+                        "width": 3.5731144216077837,
+                        "height": 3.0878766606487176,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "A2_PublicService"
+                        ]
+                    },
+                    "id": "Id4oMC_QNT",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 65.609577249742,
+                        "y": 48.93320902821144,
+                        "width": 3.1319891843722445,
+                        "height": 2.029176091283432,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "X_Unclear"
+                        ]
+                    },
+                    "id": "J0IpZFsuqy",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 82.43850505027748,
+                        "y": 45.18364451170943,
+                        "width": 7.65352286603644,
+                        "height": 5.337615370549912,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "A2_PublicService"
+                        ]
+                    },
+                    "id": "NbpCTvd4Qo",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                }
+            ],
+            "was_cancelled": false,
+            "ground_truth": false,
+            "created_at": "2025-07-01T21:31:06.377062Z",
+            "updated_at": "2025-07-01T21:31:06.377104Z",
+            "draft_created_at": "2025-07-01T21:28:04.733564Z",
+            "lead_time": 264.503,
+            "prediction": {},
+            "result_count": 8,
+            "unique_id": "230de417-ddde-404a-8032-37efdbc00537",
+            "import_id": null,
+            "last_action": null,
+            "bulk_created": false,
+            "task": 1010,
+            "project": 1,
+            "updated_by": 1,
+            "parent_prediction": null,
+            "parent_annotation": null,
+            "last_created_by": null
+        }
+    ]
+}

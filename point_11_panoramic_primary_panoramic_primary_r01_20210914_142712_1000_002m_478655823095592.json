@@ -1,0 +1,118 @@
+{
+    "image_name": "point_11_panoramic_primary_panoramic_primary_r01_20210914_142712_1000_002m_478655823095592.jpg",
+    "image_path": "./images/point_11_panoramic_primary_panoramic_primary_r01_20210914_142712_1000_002m_478655823095592.jpg",
+    "meta_info": {
+        "sampling_point_id": "point_11",
+        "batch_number": 1,
+        "mapillary_id": "478655823095592",
+        "captured_at": 1631626032161,
+        "longitude": -74.179188153633,
+        "latitude": 4.610582833949
+    },
+    "annotations": [
+        {
+            "id": 9,
+            "completed_by": 1,
+            "result": [
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 33.95451058628245,
+                        "y": 41.60908819957249,
+                        "width": 7.4951061914030115,
+                        "height": 6.872091175362032,
+                        "rotation": 8.17441462646002,
+                        "rectanglelabels": [
+                            "B2_Service"
+                        ]
+                    },
+                    "id": "7uxWIQo7H2",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 26.076047299005022,
+                        "y": 44.68687758977499,
+                        "width": 7.068844227910919,
+                        "height": 5.825580167725583,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B2_Service"
+                        ]
+                    },
+                    "id": "SPA9vFeEIa",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 13.146101073077515,
+                        "y": 42.555567772314404,
+                        "width": 4.8309689195773124,
+                        "height": 6.820191415873842,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B2_Service"
+                        ]
+                    },
+                    "id": "KXLO2Sj3o6",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 18.296766465273915,
+                        "y": 43.12391705697057,
+                        "width": 7.530628021694042,
+                        "height": 7.672715342858076,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B2_Service"
+                        ]
+                    },
+                    "id": "Ybb-_IiAEe",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                }
+            ],
+            "was_cancelled": false,
+            "ground_truth": false,
+            "created_at": "2025-06-27T22:10:59.724343Z",
+            "updated_at": "2025-06-27T22:10:59.724370Z",
+            "draft_created_at": "2025-06-27T22:10:25.497117Z",
+            "lead_time": 51.074,
+            "prediction": {},
+            "result_count": 4,
+            "unique_id": "79269f4e-92a3-449e-a451-994ec5003446",
+            "import_id": null,
+            "last_action": null,
+            "bulk_created": false,
+            "task": 14,
+            "project": 1,
+            "updated_by": 1,
+            "parent_prediction": null,
+            "parent_annotation": null,
+            "last_created_by": null
+        }
+    ]
+}

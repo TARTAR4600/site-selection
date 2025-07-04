@@ -1,0 +1,78 @@
+{
+    "image_name": "point_1112_right_fallback_bilateral_fallback_r02_20211016_143426_0950_004m_642720993755487.jpg",
+    "image_path": "./images/point_1112_right_fallback_bilateral_fallback_r02_20211016_143426_0950_004m_642720993755487.jpg",
+    "meta_info": {
+        "sampling_point_id": "point_1112",
+        "batch_number": 8,
+        "mapillary_id": "642720993755487",
+        "captured_at": 1634391266799,
+        "longitude": -74.10282208595,
+        "latitude": 4.6238754064012
+    },
+    "annotations": [
+        {
+            "id": 20,
+            "completed_by": 1,
+            "result": [
+                {
+                    "original_width": 2048,
+                    "original_height": 1152,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 58.54214123006833,
+                        "y": 47.98785117691723,
+                        "width": 27.107061503416865,
+                        "height": 15.793470007593022,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B2_Service"
+                        ]
+                    },
+                    "id": "ZVu5Ix4mxe",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1152,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 5.808656036446469,
+                        "y": 45.760566945077194,
+                        "width": 18.337129840546698,
+                        "height": 14.17362692989117,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "X_Unclear"
+                        ]
+                    },
+                    "id": "GgO9kx84dS",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                }
+            ],
+            "was_cancelled": false,
+            "ground_truth": false,
+            "created_at": "2025-07-01T20:30:07.440418Z",
+            "updated_at": "2025-07-01T20:30:07.440445Z",
+            "draft_created_at": "2025-07-01T20:30:06.016859Z",
+            "lead_time": 62.42,
+            "prediction": {},
+            "result_count": 2,
+            "unique_id": "ed6db29e-7a0f-430f-a756-bd8a95935e65",
+            "import_id": null,
+            "last_action": null,
+            "bulk_created": false,
+            "task": 538,
+            "project": 1,
+            "updated_by": 1,
+            "parent_prediction": null,
+            "parent_annotation": null,
+            "last_created_by": null
+        }
+    ]
+}

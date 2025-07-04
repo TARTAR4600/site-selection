@@ -1,0 +1,58 @@
+{
+    "image_name": "point_101_panoramic_primary_panoramic_primary_r01_20211001_161142_1000_002m_754961798804755.jpg",
+    "image_path": "./images/point_101_panoramic_primary_panoramic_primary_r01_20211001_161142_1000_002m_754961798804755.jpg",
+    "meta_info": {
+        "sampling_point_id": "point_101",
+        "batch_number": 1,
+        "mapillary_id": "754961798804755",
+        "captured_at": 1633101102274,
+        "longitude": -74.195293153025,
+        "latitude": 4.6132247675583
+    },
+    "annotations": [
+        {
+            "id": 4,
+            "completed_by": 1,
+            "result": [
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 21.653757036925768,
+                        "y": 43.90433166846405,
+                        "width": 2.535903464475176,
+                        "height": 6.189323709905523,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "X_Unclear"
+                        ]
+                    },
+                    "id": "vRpB1FMHwI",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                }
+            ],
+            "was_cancelled": false,
+            "ground_truth": false,
+            "created_at": "2025-06-27T13:59:11.807721Z",
+            "updated_at": "2025-06-27T13:59:11.807749Z",
+            "draft_created_at": null,
+            "lead_time": 13.571,
+            "prediction": {},
+            "result_count": 1,
+            "unique_id": "2738c1bd-0c96-4cb5-9317-e697003ddaeb",
+            "import_id": null,
+            "last_action": null,
+            "bulk_created": false,
+            "task": 5,
+            "project": 1,
+            "updated_by": 1,
+            "parent_prediction": null,
+            "parent_annotation": null,
+            "last_created_by": null
+        }
+    ]
+}

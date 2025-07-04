@@ -1,0 +1,198 @@
+{
+    "image_name": "point_10_panoramic_primary_panoramic_primary_r01_20210914_142709_1000_004m_635335214117849.jpg",
+    "image_path": "./images/point_10_panoramic_primary_panoramic_primary_r01_20210914_142709_1000_004m_635335214117849.jpg",
+    "meta_info": {
+        "sampling_point_id": "point_10",
+        "batch_number": 1,
+        "mapillary_id": "635335214117849",
+        "captured_at": 1631626029231,
+        "longitude": -74.178947253889,
+        "latitude": 4.6107889156196
+    },
+    "annotations": [
+        {
+            "id": 1,
+            "completed_by": 1,
+            "result": [
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 19.670167871382635,
+                        "y": 45.788662816948545,
+                        "width": 4.7237896029366695,
+                        "height": 2.2951746093364562,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B2_Service"
+                        ]
+                    },
+                    "id": "tmT-81QRXq",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 23.64669132244232,
+                        "y": 43.65361666872858,
+                        "width": 4.857229987200419,
+                        "height": 1.9749176871034635,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B2_Service"
+                        ]
+                    },
+                    "id": "LDSaYsZkJx",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 73.4024515309385,
+                        "y": 46.49055290409113,
+                        "width": 2.787109453442667,
+                        "height": 4.050331723708042,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B2_Service"
+                        ]
+                    },
+                    "id": "CJKTZ7FtHA",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 64.8121319090862,
+                        "y": 47.646832078898605,
+                        "width": 2.1542554786107786,
+                        "height": 2.1873978705894004,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B1_Retail"
+                        ]
+                    },
+                    "id": "MNB1UHgU1C",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 68.87207492646804,
+                        "y": 47.81254403879175,
+                        "width": 2.170826674600079,
+                        "height": 2.750818534226063,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B2_Service"
+                        ]
+                    },
+                    "id": "aJlQB1trxT",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 71.14232877700401,
+                        "y": 47.84568643077037,
+                        "width": 2.0051147147069486,
+                        "height": 2.485679398397046,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "X_Unclear"
+                        ]
+                    },
+                    "id": "AugayN8VOC",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 67.04924336764353,
+                        "y": 47.911971214727636,
+                        "width": 1.73997557887796,
+                        "height": 2.551964182354304,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "X_Unclear"
+                        ]
+                    },
+                    "id": "VVrjiwADe8",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 78.76507893208829,
+                        "y": 46.38742118371078,
+                        "width": 3.6456631176490077,
+                        "height": 4.142798997328406,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B2_Service"
+                        ]
+                    },
+                    "id": "BtNwuVU4Fa",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                }
+            ],
+            "was_cancelled": false,
+            "ground_truth": false,
+            "created_at": "2025-06-27T13:45:22.747780Z",
+            "updated_at": "2025-06-27T13:50:19.302883Z",
+            "draft_created_at": "2025-06-27T13:40:18.170433Z",
+            "lead_time": 1016.299,
+            "prediction": {},
+            "result_count": 8,
+            "unique_id": "cd85ee09-f7c0-4aeb-8a93-176aa729c7b7",
+            "import_id": null,
+            "last_action": null,
+            "bulk_created": false,
+            "task": 3,
+            "project": 1,
+            "updated_by": 1,
+            "parent_prediction": null,
+            "parent_annotation": null,
+            "last_created_by": null
+        }
+    ]
+}

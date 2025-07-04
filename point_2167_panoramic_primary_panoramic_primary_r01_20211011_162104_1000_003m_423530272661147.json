@@ -1,0 +1,118 @@
+{
+    "image_name": "point_2167_panoramic_primary_panoramic_primary_r01_20211011_162104_1000_003m_423530272661147.jpg",
+    "image_path": "./images/point_2167_panoramic_primary_panoramic_primary_r01_20211011_162104_1000_003m_423530272661147.jpg",
+    "meta_info": {
+        "sampling_point_id": "point_2167",
+        "batch_number": 15,
+        "mapillary_id": "423530272661147",
+        "captured_at": 1633965664296,
+        "longitude": -74.158262619935,
+        "latitude": 4.6387026932783
+    },
+    "annotations": [
+        {
+            "id": 43,
+            "completed_by": 1,
+            "result": [
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 16.05351170568562,
+                        "y": 39.68784838350055,
+                        "width": 8.02675585284281,
+                        "height": 11.81716833890747,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B2_Service"
+                        ]
+                    },
+                    "id": "u3bTrll1Bh",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 24.78999075229184,
+                        "y": 42.40997208188293,
+                        "width": 8.381379507475064,
+                        "height": 10.947926342299965,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B3_Restaurant"
+                        ]
+                    },
+                    "id": "AS4GcsKVCN",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 10.41331824784299,
+                        "y": 44.495291385178156,
+                        "width": 3.348541573560613,
+                        "height": 3.6493087807666527,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "X_Unclear"
+                        ]
+                    },
+                    "id": "j7tSGx7dnT",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 7.886873707312232,
+                        "y": 45.337439565355076,
+                        "width": 2.2256773333247164,
+                        "height": 3.368592720707682,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "X_Unclear"
+                        ]
+                    },
+                    "id": "HsxCsZvIzu",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                }
+            ],
+            "was_cancelled": false,
+            "ground_truth": false,
+            "created_at": "2025-07-01T21:43:53.454644Z",
+            "updated_at": "2025-07-01T21:43:53.454668Z",
+            "draft_created_at": "2025-07-01T21:43:22.484166Z",
+            "lead_time": 64.367,
+            "prediction": {},
+            "result_count": 4,
+            "unique_id": "ebdbf096-c4fe-4dfd-906f-71908bd8f1d3",
+            "import_id": null,
+            "last_action": null,
+            "bulk_created": false,
+            "task": 1070,
+            "project": 1,
+            "updated_by": 1,
+            "parent_prediction": null,
+            "parent_annotation": null,
+            "last_created_by": null
+        }
+    ]
+}

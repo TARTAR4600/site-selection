@@ -1,0 +1,238 @@
+{
+    "image_name": "point_6345_panoramic_primary_panoramic_primary_r01_20210601_152236_0939_011m_314370463673433.jpg",
+    "image_path": "./images/point_6345_panoramic_primary_panoramic_primary_r01_20210601_152236_0939_011m_314370463673433.jpg",
+    "meta_info": {
+        "sampling_point_id": "point_6345",
+        "batch_number": 42,
+        "mapillary_id": "314370463673433",
+        "captured_at": 1622557356626,
+        "longitude": -74.188323229466,
+        "latitude": 4.6169451738653
+    },
+    "annotations": [
+        {
+            "id": 49,
+            "completed_by": 1,
+            "result": [
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 21.962095875139354,
+                        "y": 40.13377926421405,
+                        "width": 10.03344481605351,
+                        "height": 16.27647714604236,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B3_Restaurant"
+                        ]
+                    },
+                    "id": "Eqynxraxof",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 33.05027913193582,
+                        "y": 47.07206192832542,
+                        "width": 6.666417412544071,
+                        "height": 11.441652580394774,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B1_Retail"
+                        ]
+                    },
+                    "id": "ZoqegDERT8",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 61.22889457786679,
+                        "y": 49.246921509722775,
+                        "width": 3.7823644893867012,
+                        "height": 7.186492529834744,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B1_Retail"
+                        ]
+                    },
+                    "id": "ELxrFdW_Iq",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 58.4394007669441,
+                        "y": 48.49044861184543,
+                        "width": 2.458536918101345,
+                        "height": 6.1463422952533975,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "X_Unclear"
+                        ]
+                    },
+                    "id": "2NH1nEWTGJ",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 56.311820741664064,
+                        "y": 48.39588949961076,
+                        "width": 1.6547844641066831,
+                        "height": 5.389869397376053,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "X_Unclear"
+                        ]
+                    },
+                    "id": "OzCpTIw2Iw",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 79.45488379628586,
+                        "y": 45.88147674246165,
+                        "width": 5.501621075471576,
+                        "height": 8.682245759728588,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B3_Restaurant"
+                        ]
+                    },
+                    "id": "pu41r1Mrit",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 85.81613316479985,
+                        "y": 46.13936523037438,
+                        "width": 2.235033561910342,
+                        "height": 7.220877661556443,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "X_Unclear"
+                        ]
+                    },
+                    "id": "Hkt8SB7gRG",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 88.91079501975263,
+                        "y": 46.998993523416814,
+                        "width": 3.5674574161260892,
+                        "height": 5.6735467340800625,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "X_Unclear"
+                        ]
+                    },
+                    "id": "nL0UexK-ZL",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 14.269829664504394,
+                        "y": 44.67799713220226,
+                        "width": 5.200751172906724,
+                        "height": 11.776907614681335,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "X_Unclear"
+                        ]
+                    },
+                    "id": "58I9mw6XaA",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 7.314234022231586,
+                        "y": 45.634646992954394,
+                        "width": 6.429157713827366,
+                        "height": 5.401666754996505,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B2_Service"
+                        ]
+                    },
+                    "id": "VtNBZak98a",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                }
+            ],
+            "was_cancelled": false,
+            "ground_truth": false,
+            "created_at": "2025-07-01T21:57:33.964121Z",
+            "updated_at": "2025-07-01T21:57:33.964149Z",
+            "draft_created_at": "2025-07-01T21:55:53.154360Z",
+            "lead_time": 266.058,
+            "prediction": {},
+            "result_count": 10,
+            "unique_id": "4327e21f-f9d6-4b8d-9930-c8ac349b963e",
+            "import_id": null,
+            "last_action": null,
+            "bulk_created": false,
+            "task": 1220,
+            "project": 1,
+            "updated_by": 1,
+            "parent_prediction": null,
+            "parent_annotation": null,
+            "last_created_by": null
+        }
+    ]
+}

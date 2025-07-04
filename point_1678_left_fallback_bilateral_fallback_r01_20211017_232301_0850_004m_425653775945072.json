@@ -1,0 +1,118 @@
+{
+    "image_name": "point_1678_left_fallback_bilateral_fallback_r01_20211017_232301_0850_004m_425653775945072.jpg",
+    "image_path": "./images/point_1678_left_fallback_bilateral_fallback_r01_20211017_232301_0850_004m_425653775945072.jpg",
+    "meta_info": {
+        "sampling_point_id": "point_1678",
+        "batch_number": 12,
+        "mapillary_id": "425653775945072",
+        "captured_at": 1634509381297,
+        "longitude": -74.164591691215,
+        "latitude": 4.6186908070792
+    },
+    "annotations": [
+        {
+            "id": 30,
+            "completed_by": 1,
+            "result": [
+                {
+                    "original_width": 2048,
+                    "original_height": 1152,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 25.57856272838002,
+                        "y": 21.22073352280417,
+                        "width": 20.584652862362972,
+                        "height": 22.953038300175937,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B2_Service"
+                        ]
+                    },
+                    "id": "t7EHO51jtF",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1152,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 11.449451887941535,
+                        "y": 31.181485992691837,
+                        "width": 11.084043848964676,
+                        "height": 14.724590607660037,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "B1_Retail"
+                        ]
+                    },
+                    "id": "Rl09XE1DtN",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1152,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 67.60048721071864,
+                        "y": 10.393828664230613,
+                        "width": 15.468940316686972,
+                        "height": 25.76803356340506,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "X_Unclear"
+                        ]
+                    },
+                    "id": "L1w_vEpwWP",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1152,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 47.38124238733252,
+                        "y": 22.519962105832995,
+                        "width": 19.853836784409253,
+                        "height": 22.303424008661523,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "X_Unclear"
+                        ]
+                    },
+                    "id": "wvuwyWyIuE",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                }
+            ],
+            "was_cancelled": false,
+            "ground_truth": false,
+            "created_at": "2025-07-01T21:07:06.093809Z",
+            "updated_at": "2025-07-01T21:07:06.093833Z",
+            "draft_created_at": "2025-07-01T21:06:29.622015Z",
+            "lead_time": 76.757,
+            "prediction": {},
+            "result_count": 4,
+            "unique_id": "c40f37ca-7d28-475f-8343-77ca73eb55e8",
+            "import_id": null,
+            "last_action": null,
+            "bulk_created": false,
+            "task": 720,
+            "project": 1,
+            "updated_by": 1,
+            "parent_prediction": null,
+            "parent_annotation": null,
+            "last_created_by": null
+        }
+    ]
+}

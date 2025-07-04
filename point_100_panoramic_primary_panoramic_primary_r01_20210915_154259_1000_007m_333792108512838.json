@@ -1,0 +1,78 @@
+{
+    "image_name": "point_100_panoramic_primary_panoramic_primary_r01_20210915_154259_1000_007m_333792108512838.jpg",
+    "image_path": "./images/point_100_panoramic_primary_panoramic_primary_r01_20210915_154259_1000_007m_333792108512838.jpg",
+    "meta_info": {
+        "sampling_point_id": "point_100",
+        "batch_number": 1,
+        "mapillary_id": "333792108512838",
+        "captured_at": 1631716979619,
+        "longitude": -74.182944404579,
+        "latitude": 4.6131193025311
+    },
+    "annotations": [
+        {
+            "id": 2,
+            "completed_by": 1,
+            "result": [
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 11.817168338907468,
+                        "y": 25.863991081382387,
+                        "width": 19.28651059085842,
+                        "height": 30.769230769230774,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "R_Residential"
+                        ]
+                    },
+                    "id": "J3L7CwoOOv",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                },
+                {
+                    "original_width": 2048,
+                    "original_height": 1024,
+                    "image_rotation": 0,
+                    "value": {
+                        "x": 31.661092530657747,
+                        "y": 32.32998885172798,
+                        "width": 6.577480490523968,
+                        "height": 23.634336677814943,
+                        "rotation": 0,
+                        "rectanglelabels": [
+                            "R_Residential"
+                        ]
+                    },
+                    "id": "BN1WOTkcbg",
+                    "from_name": "label",
+                    "to_name": "image",
+                    "type": "rectanglelabels",
+                    "origin": "manual"
+                }
+            ],
+            "was_cancelled": false,
+            "ground_truth": false,
+            "created_at": "2025-06-27T13:52:51.443148Z",
+            "updated_at": "2025-06-27T13:52:51.443172Z",
+            "draft_created_at": "2025-06-27T13:52:07.757945Z",
+            "lead_time": 134.237,
+            "prediction": {},
+            "result_count": 2,
+            "unique_id": "6d6e4251-13d7-4651-9e69-e8dc7d3792fe",
+            "import_id": null,
+            "last_action": null,
+            "bulk_created": false,
+            "task": 4,
+            "project": 1,
+            "updated_by": 1,
+            "parent_prediction": null,
+            "parent_annotation": null,
+            "last_created_by": null
+        }
+    ]
+}
